@@ -2,7 +2,7 @@
 
 ## This is an express application 21 Savage Login, Full Stack.
 
-![savage img](images/savagebaby.png)
+![savage img](images/savagebaby.jpg)
 
 ## Tech Used
 - HTML
